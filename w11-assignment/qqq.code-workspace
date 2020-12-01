@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "D:\\w11-ecommerce"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "w11-assignment"
+  }
+}
